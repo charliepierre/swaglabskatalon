@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_checkout_complete_container (1)</name>
+   <tag></tag>
+   <elementGuidId>277e1a6e-b36f-4a30-96ef-3f2fffd833c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-test=&quot;checkout-complete-container&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-test = 'checkout-complete-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;checkout-complete-container&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ee8db5a-89a7-4156-b189-284f3359323b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkout_complete_container</value>
+      <webElementGuid>681bfe49-fb22-4d8c-bcf9-b5ec78c8e98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkout_complete_container</value>
+      <webElementGuid>210cdc0b-35bb-41b4-badb-c92d5c92d7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>checkout-complete-container</value>
+      <webElementGuid>9db259f9-e4f0-4e91-886f-e8818dec940a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>798a7a23-c41e-40e7-b8eb-5b61c711e42f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for your order!Your order has been dispatched, and will arrive just as fast as the pony can get there!Back HomeGenerate PDF order</value>
+      <webElementGuid>bc65e6db-6118-49b3-a5cd-01acd7a421b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2353f9ca2c6234b58319c30e12826af0</value>
+      <webElementGuid>befeeff3-8dd1-4484-b3de-0e3c1e8abc20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'checkout-complete-container']</value>
+      <webElementGuid>4bc80266-de13-407c-97c8-5c8d42eb8c24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'checkout-complete-container']</value>
+      <webElementGuid>fe6d854c-e0f3-4282-93b1-3059b2c32041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'checkout_complete_container' and (text() = 'Thank you for your order!Your order has been dispatched, and will arrive just as fast as the pony can get there!Back HomeGenerate PDF order' or . = 'Thank you for your order!Your order has been dispatched, and will arrive just as fast as the pony can get there!Back HomeGenerate PDF order')]</value>
+      <webElementGuid>767fefbe-e59e-44c4-9b99-a7d0944aac2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

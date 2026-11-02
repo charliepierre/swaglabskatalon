@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validasi tombol Add to cart berubah menjadi Remove</description>
+   <name>TC_UI_02</name>
+   <tag>GenAI</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>test buyer</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>test buyer</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>2538265e-ec58-42d3-a90a-fc9044f7f8c5</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>2538265e-ec58-42d3-a90a-fc9044f7f8c5</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cded6e0-118c-41f3-80c9-57dfa245de54</testCaseGuid>
+</TestCaseEntity>

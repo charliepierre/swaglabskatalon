@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_CHK_001</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>test buyer</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>test buyer</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>2538265e-ec58-42d3-a90a-fc9044f7f8c5</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>2538265e-ec58-42d3-a90a-fc9044f7f8c5</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad416b5f-089a-4d14-95fb-62bb5187e664</testCaseGuid>
+</TestCaseEntity>

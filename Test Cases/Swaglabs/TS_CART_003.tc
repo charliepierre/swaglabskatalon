@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_CART_003</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>test buyer</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>test buyer</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>2538265e-ec58-42d3-a90a-fc9044f7f8c5</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>2538265e-ec58-42d3-a90a-fc9044f7f8c5</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb40b0d0-cca0-43c5-a1b0-60fc8c757ee0</testCaseGuid>
+</TestCaseEntity>
